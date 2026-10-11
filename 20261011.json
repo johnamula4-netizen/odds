@@ -1,0 +1,2233 @@
+{
+  "date": "2026-10-11",
+  "latest_fetched_at": "2026-10-11T12:16:00",
+  "races": [
+    {
+      "race_id": 238,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 5,
+      "race_name": "メイクデビュー東京 2歳新馬（混合）［指定］",
+      "post_time": "12時25分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "アースグレイジング",
+            "odds": [
+              "79.3"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "ユウミンジザイ",
+            "odds": [
+              "70.7"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "ハントクス",
+            "odds": [
+              "24.7"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "アインザッツ",
+            "odds": [
+              "5.8"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "マイネルユンフェン",
+            "odds": [
+              "36.4"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "ソルフィーナ",
+            "odds": [
+              "8.2"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ラニアケア",
+            "odds": [
+              "2.9"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "カンキチ",
+            "odds": [
+              "51.7"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ハナコ",
+            "odds": [
+              "8.0"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ホールノート",
+            "odds": [
+              "3.4"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "グロリアススマイル",
+            "odds": [
+              "10.4"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 239,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 6,
+      "race_name": "3歳以上1勝クラス牝［指定］",
+      "post_time": "12時55分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "ドルンレースツェン",
+            "odds": [
+              "99.8"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "ペンテリコン",
+            "odds": [
+              "8.5"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "ティピティーナ",
+            "odds": [
+              "23.8"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "ラエトゥス",
+            "odds": [
+              "8.1"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "テンハートビート",
+            "odds": [
+              "6.8"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "エスシーレイジュ",
+            "odds": [
+              "44.2"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "カーボフリオ",
+            "odds": [
+              "22.1"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "ノアスペシャル",
+            "odds": [
+              "7.7"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "グラスハーティー",
+            "odds": [
+              "49.7"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "パッションディーバ",
+            "odds": [
+              "53.9"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "ミュークチェルシー",
+            "odds": [
+              "29.3"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ベルメサイア",
+            "odds": [
+              "13.3"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ブルームコード",
+            "odds": [
+              "9.1"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "プリプリプリン",
+            "odds": [
+              "4.7"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "フュルスティン",
+            "odds": [
+              "11.5"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "スタートレイン",
+            "odds": [
+              "15.5"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 246,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 6,
+      "race_name": "3歳以上1勝クラス[指定]",
+      "post_time": "12時40分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "ブラックレジェンド",
+            "odds": [
+              "7.5"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "ジャスティンダラス",
+            "odds": [
+              "6.8"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "ゴールデンスラム",
+            "odds": [
+              "20.6"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "メイショウオグマ",
+            "odds": [
+              "59.3"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ダイメイクマモト",
+            "odds": [
+              "26.4"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "レザーアンドレース",
+            "odds": [
+              "34.4"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "ブレイジングスター",
+            "odds": [
+              "54.5"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "ハイロード",
+            "odds": [
+              "14.8"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "ココロヅヨサ",
+            "odds": [
+              "2.9"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "キタノシャカール",
+            "odds": [
+              "17.9"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "ミヤジオズ",
+            "odds": [
+              "19.9"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ブルーストレイル",
+            "odds": [
+              "154.6"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ルファーダ",
+            "odds": [
+              "11.9"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "アルビオン",
+            "odds": [
+              "61.4"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "コルヴァス",
+            "odds": [
+              "13.2"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "クリュギスト",
+            "odds": [
+              "7.7"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 240,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 7,
+      "race_name": "3歳以上1勝クラス（混合）［指定］",
+      "post_time": "13時25分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "サムワンライクユー",
+            "odds": [
+              "57.5"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "タイキプレジール",
+            "odds": [
+              "42.3"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "ロジリッキー",
+            "odds": [
+              "117.4"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "タケルムサシ",
+            "odds": [
+              "11.0"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ムーランオランジュ",
+            "odds": [
+              "39.7"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "マリブオレンジ",
+            "odds": [
+              "17.8"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "アクアマーズ",
+            "odds": [
+              "2.7"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "オブシディアン",
+            "odds": [
+              "135.6"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "サマーマッドネス",
+            "odds": [
+              "4.5"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "ヴァンデスペランス",
+            "odds": [
+              "9.8"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "アンシュウマト",
+            "odds": [
+              "7.5"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "カーマンライン",
+            "odds": [
+              "51.5"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ワルトシュタイン",
+            "odds": [
+              "55.6"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ブレスドナイル",
+            "odds": [
+              "24.8"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ライカ",
+            "odds": [
+              "26.7"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "ブルーミーティア",
+            "odds": [
+              "10.2"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 247,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 7,
+      "race_name": "3歳以上1勝クラス（混合）［指定］",
+      "post_time": "13時10分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "グリュイエール",
+            "odds": [
+              "95.3"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "マイリトルヒーロー",
+            "odds": [
+              "7.9"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "カーメルタザイト",
+            "odds": [
+              "28.0"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "ダイチノナポリ",
+            "odds": [
+              "11.0"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "オーシンエス",
+            "odds": [
+              "40.8"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "カフジキアッキエレ",
+            "odds": [
+              "52.5"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ラパンドール",
+            "odds": [
+              "17.9"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ラヴェニュー",
+            "odds": [
+              "1.3"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "メイショウハンター",
+            "odds": [
+              "46.9"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ブルーミングローズ",
+            "odds": [
+              "26.9"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "サラコスティ",
+            "odds": [
+              "11.4"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 241,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 8,
+      "race_name": "3歳以上1勝クラス（混合）［指定］",
+      "post_time": "14時01分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "イブキ",
+            "odds": [
+              "3.8"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "ヴォートセレスト",
+            "odds": [
+              "16.4"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "アンビアンス",
+            "odds": [
+              "86.6"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "オメガストリーム",
+            "odds": [
+              "84.0"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ボンボンベイビー",
+            "odds": [
+              "32.0"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "ウルフマン",
+            "odds": [
+              "14.2"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "シェンロン",
+            "odds": [
+              "64.3"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "パーヴォ",
+            "odds": [
+              "28.3"
+            ]
+          },
+          {
+            "horse_num": "17",
+            "horse_name": "トラストボス",
+            "odds": [
+              "41.8"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "イフルジャンス",
+            "odds": [
+              "86.5"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "サンセットビュー",
+            "odds": [
+              "13.7"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "マイネルアウルム",
+            "odds": [
+              "12.4"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ペネトレイトゴー",
+            "odds": [
+              "51.0"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ピースヒロフェイス",
+            "odds": [
+              "70.6"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "オニノウタゲ",
+            "odds": [
+              "132.7"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ポッドクロス",
+            "odds": [
+              "6.6"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "ゴンファロニエーレ",
+            "odds": [
+              "2.6"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 248,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 8,
+      "race_name": "3歳以上2勝クラス牝［指定］",
+      "post_time": "13時40分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "コスモマルーン",
+            "odds": [
+              "71.9"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "オーケアニス",
+            "odds": [
+              "18.5"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "ステアハート",
+            "odds": [
+              "12.4"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "エアニゲラ",
+            "odds": [
+              "9.7"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ロイスター",
+            "odds": [
+              "9.9"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "ゼットレジーナ",
+            "odds": [
+              "88.7"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "カルミアクラウン",
+            "odds": [
+              "24.2"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "カスバートテソーロ",
+            "odds": [
+              "71.8"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "ヴンダーバール",
+            "odds": [
+              "1.8"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "ヴァンアグレアブル",
+            "odds": [
+              "11.7"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "エターナルプロミス",
+            "odds": [
+              "24.5"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ラヴァブル",
+            "odds": [
+              "45.0"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "プウスカンドゥール",
+            "odds": [
+              "80.9"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ハギノコラソン",
+            "odds": [
+              "17.4"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "オデット",
+            "odds": [
+              "27.5"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "マクノス",
+            "odds": [
+              "21.3"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 242,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 9,
+      "race_name": "鷹巣山特別 3歳以上2勝クラス（混合）（特指）",
+      "post_time": "14時35分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "ツルマウカタチ",
+            "odds": [
+              "32.7"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "シャンパンマーク",
+            "odds": [
+              "34.6"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "フジガイフウ",
+            "odds": [
+              "6.6"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "エラルディーク",
+            "odds": [
+              "4.2"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "ジッピーレーサー",
+            "odds": [
+              "108.1"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "ポペット",
+            "odds": [
+              "16.5"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "エーデルヴェーグ",
+            "odds": [
+              "5.5"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "クールデイトナ",
+            "odds": [
+              "12.5"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ソニックライン",
+            "odds": [
+              "17.3"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "フミサウンド",
+            "odds": [
+              "26.3"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "レッドレナート",
+            "odds": [
+              "29.2"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "クレパスキュラー",
+            "odds": [
+              "2.9"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 249,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 9,
+      "race_name": "円山特別 3歳以上2勝クラス（混合）［指定］",
+      "post_time": "14時15分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "メイショウバルク",
+            "odds": [
+              "10.7"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "ダノンプリマ",
+            "odds": [
+              "17.8"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "フレンズプラス",
+            "odds": [
+              "51.4"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "アオイレーギーナ",
+            "odds": [
+              "11.6"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "バッハアルプゼー",
+            "odds": [
+              "21.2"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "カワキタマナレア",
+            "odds": [
+              "20.4"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "パールフロント",
+            "odds": [
+              "22.2"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "セールヴォラン",
+            "odds": [
+              "46.6"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "レッドレベンディス",
+            "odds": [
+              "14.8"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "ストラテージュ",
+            "odds": [
+              "35.3"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "ルクスレイモンド",
+            "odds": [
+              "16.6"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "クインズシフォン",
+            "odds": [
+              "45.0"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "セルヴァンス",
+            "odds": [
+              "35.7"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "タカスタカスタカス",
+            "odds": [
+              "2.0"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "タイセイディアマン",
+            "odds": [
+              "8.4"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "フェアリーライズ",
+            "odds": [
+              "49.1"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 243,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 10,
+      "race_name": "テレビ静岡賞 3歳以上3勝クラス（混合）（特指）",
+      "post_time": "15時10分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "キョウエイカンセ",
+            "odds": [
+              "13.1"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "シャパリュ",
+            "odds": [
+              "23.2"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "フウセツ",
+            "odds": [
+              "11.1"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "レッドラパルマ",
+            "odds": [
+              "31.4"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "エイプリルインパリ",
+            "odds": [
+              "45.2"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "サンドブラスト",
+            "odds": [
+              "25.7"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "ヤマニンアストロン",
+            "odds": [
+              "4.2"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "アジアミッション",
+            "odds": [
+              "36.3"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "アスクアイルビゼア",
+            "odds": [
+              "12.4"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "クインズデネブ",
+            "odds": [
+              "16.6"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "スペイドアン",
+            "odds": [
+              "35.9"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ガンウルフ",
+            "odds": [
+              "15.9"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "メイショウタムシバ",
+            "odds": [
+              "19.9"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "カルパ",
+            "odds": [
+              "4.5"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "セギレエルビエント",
+            "odds": [
+              "6.1"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "ゴールデンオスカー",
+            "odds": [
+              "47.4"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 250,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 10,
+      "race_name": "三年坂ステークス 3歳以上3勝クラス（混合）［指定］",
+      "post_time": "14時50分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "アルトゥーム",
+            "odds": [
+              "61.9"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "モアリジット",
+            "odds": [
+              "59.6"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "フェアリーライク",
+            "odds": [
+              "14.5"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "キングメーカー",
+            "odds": [
+              "24.1"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "クスクス",
+            "odds": [
+              "28.7"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "ノクナレア",
+            "odds": [
+              "15.4"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "ウォータークラーク",
+            "odds": [
+              "18.9"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "エポックヴィーナス",
+            "odds": [
+              "18.3"
+            ]
+          },
+          {
+            "horse_num": "17",
+            "horse_name": "マトラコーニッシュ",
+            "odds": [
+              "18.5"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "スーサンアッシャー",
+            "odds": [
+              "126.6"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "リゾートアイランド",
+            "odds": [
+              "29.9"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "トミーバローズ",
+            "odds": [
+              "2.2"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "ハギノアルデバラン",
+            "odds": [
+              "39.8"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "モズカトレア",
+            "odds": [
+              "37.7"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "アヴィオン",
+            "odds": [
+              "4.2"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ミッキージュエリー",
+            "odds": [
+              "13.9"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "サクセスアイ",
+            "odds": [
+              "92.5"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 244,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 11,
+      "race_name": "アイルランドT 3歳以上オープン（国際）牝（指定）",
+      "post_time": "15時45分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "ニシノティアモ",
+            "odds": [
+              "11.1"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "セキトバイースト",
+            "odds": [
+              "10.4"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "ラヴァンダ",
+            "odds": [
+              "6.3"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "ミアネーロ",
+            "odds": [
+              "36.3"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ワタシマツワ",
+            "odds": [
+              "30.1"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "ハワイアンティアレ",
+            "odds": [
+              "73.9"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "ジョスラン",
+            "odds": [
+              "6.4"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "カムニャック",
+            "odds": [
+              "3.4"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "チェルビアット",
+            "odds": [
+              "25.1"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "クイーンズウォーク",
+            "odds": [
+              "6.4"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "クランフォード",
+            "odds": [
+              "63.5"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "カネラフィーナ",
+            "odds": [
+              "17.7"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ムイ",
+            "odds": [
+              "169.6"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ミラビリスマジック",
+            "odds": [
+              "44.5"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ルージュソリテール",
+            "odds": [
+              "23.3"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "ウイントワイライト",
+            "odds": [
+              "19.7"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 251,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 11,
+      "race_name": "太秦ステークス 3歳以上オープン（国際）（特指）",
+      "post_time": "15時30分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "モックモック",
+            "odds": [
+              "5.9"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "レアンダー",
+            "odds": [
+              "48.2"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "マリオロード",
+            "odds": [
+              "32.6"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "ペイシャモノノフ",
+            "odds": [
+              "38.7"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "メルカントゥール",
+            "odds": [
+              "2.6"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "ミッキークレスト",
+            "odds": [
+              "33.0"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "パシアンジャン",
+            "odds": [
+              "10.9"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "バスタードサフラン",
+            "odds": [
+              "15.4"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "ハナウマビーチ",
+            "odds": [
+              "12.0"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "タガノバビロン",
+            "odds": [
+              "5.1"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ブルーサン",
+            "odds": [
+              "59.2"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ヴィンセンシオ",
+            "odds": [
+              "18.3"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "シュラザック",
+            "odds": [
+              "17.0"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "ベルウェザー",
+            "odds": [
+              "32.9"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 245,
+      "kaisai_name": "4回東京4日",
+      "kaisai_cname": "pw15orl00052026040420261011/E1",
+      "race_num": 12,
+      "race_name": "3歳以上2勝クラス（混合）［指定］",
+      "post_time": "16時30分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "ピコテンダー",
+            "odds": [
+              "8.5"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "オカメノコイ",
+            "odds": [
+              "14.8"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "イノキ",
+            "odds": [
+              "37.0"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "マサノユニコーン",
+            "odds": [
+              "12.9"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ドントゥザムーン",
+            "odds": [
+              "11.7"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "ベルビースタローン",
+            "odds": [
+              "18.3"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "レイアポポ",
+            "odds": [
+              "46.5"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "キョウエイカンフ",
+            "odds": [
+              "16.7"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "ズバットマサムネ",
+            "odds": [
+              "38.1"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "キョウエイスレーヴ",
+            "odds": [
+              "61.2"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "レディサン",
+            "odds": [
+              "93.3"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "アルジェンタージョ",
+            "odds": [
+              "23.9"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ジャスティンルマン",
+            "odds": [
+              "4.4"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ラインジーク",
+            "odds": [
+              "6.3"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "ジャックナダル",
+            "odds": [
+              "4.5"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "メイショウドライブ",
+            "odds": [
+              "24.3"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    },
+    {
+      "race_id": 252,
+      "kaisai_name": "4回京都4日",
+      "kaisai_cname": "pw15orl00082026040420261011/BF",
+      "race_num": 12,
+      "race_name": "3歳以上1勝クラス[指定]",
+      "post_time": "16時10分",
+      "tansho": {
+        "times": [
+          "2026-10-11T12:16:00"
+        ],
+        "horses": [
+          {
+            "horse_num": "1",
+            "horse_name": "メイショウトウコウ",
+            "odds": [
+              "22.3"
+            ]
+          },
+          {
+            "horse_num": "10",
+            "horse_name": "ルディシャ",
+            "odds": [
+              "39.6"
+            ]
+          },
+          {
+            "horse_num": "11",
+            "horse_name": "マゲバスピード",
+            "odds": [
+              "6.5"
+            ]
+          },
+          {
+            "horse_num": "12",
+            "horse_name": "レインボーステート",
+            "odds": [
+              "16.8"
+            ]
+          },
+          {
+            "horse_num": "13",
+            "horse_name": "ドーギッド",
+            "odds": [
+              "42.6"
+            ]
+          },
+          {
+            "horse_num": "14",
+            "horse_name": "エスティヴァリス",
+            "odds": [
+              "50.8"
+            ]
+          },
+          {
+            "horse_num": "15",
+            "horse_name": "ニシノイツキムスメ",
+            "odds": [
+              "14.7"
+            ]
+          },
+          {
+            "horse_num": "16",
+            "horse_name": "ウインラウダ",
+            "odds": [
+              "16.5"
+            ]
+          },
+          {
+            "horse_num": "2",
+            "horse_name": "タイムレスキス",
+            "odds": [
+              "10.3"
+            ]
+          },
+          {
+            "horse_num": "3",
+            "horse_name": "ダークマルス",
+            "odds": [
+              "3.3"
+            ]
+          },
+          {
+            "horse_num": "4",
+            "horse_name": "ペイシャシス",
+            "odds": [
+              "8.5"
+            ]
+          },
+          {
+            "horse_num": "5",
+            "horse_name": "サトノセプター",
+            "odds": [
+              "13.3"
+            ]
+          },
+          {
+            "horse_num": "6",
+            "horse_name": "ルートサーティーン",
+            "odds": [
+              "15.5"
+            ]
+          },
+          {
+            "horse_num": "7",
+            "horse_name": "ウォーターデライト",
+            "odds": [
+              "17.1"
+            ]
+          },
+          {
+            "horse_num": "8",
+            "horse_name": "エグジスタンス",
+            "odds": [
+              "18.0"
+            ]
+          },
+          {
+            "horse_num": "9",
+            "horse_name": "ミッキーコンドル",
+            "odds": [
+              "34.3"
+            ]
+          }
+        ]
+      },
+      "fukusho": {
+        "times": [],
+        "horses": []
+      },
+      "wakuren": {
+        "times": [],
+        "combos": []
+      },
+      "umaren": {
+        "times": [],
+        "combos": []
+      },
+      "wide": {
+        "times": [],
+        "combos": []
+      },
+      "umatan": {
+        "times": [],
+        "combos": []
+      },
+      "sanrenpuku": {
+        "times": [],
+        "combos": []
+      },
+      "sanrentan": {
+        "times": [],
+        "combos": []
+      }
+    }
+  ]
+}
